@@ -9,7 +9,7 @@ I am an experienced web technologist with a proven track record of conceptualizi
 * Languages and Tools I've Used
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,ruby,rails,js,react,nextjs,bootstrap,tailwind,git,github,netlify,vercel,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,nodejs,figma,vercel,vscode,docker,angular,mongodb,postman,py,c,redux,sass,webpack&perline=7" />
 </p>
 <br><br>
 <!--
