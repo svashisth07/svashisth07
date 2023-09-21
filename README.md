@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Sandeep Vashisth
 I am an experienced web technologist with a proven track record of conceptualizing and building applications from the ground up, with a particular focus on scalability. With a background rooted in the fast-paced world of startups, I bring a wealth of knowledge and expertise to the table.
 
 * 🔭 I’m currently working on React.js, Next.js, Node.js with Typescript, Tailwind CSS.
