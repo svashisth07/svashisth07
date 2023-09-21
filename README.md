@@ -5,6 +5,13 @@ I am an experienced web technologist with a proven track record of conceptualizi
 * 🌱 I’m currently learning AWS, DevOps and Product Mangement
 * 💬 Ask me about Web Standards, WCAG, Web Performance.
 * 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/sandeep-vashisth)
+
+* Languages and Tools I've Used
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,ruby,rails,js,react,nextjs,bootstrap,tailwind,git,github,netlify,vercel,vscode&perline=7" />
+</p>
+<br><br>
 <!--
 **svashisth07/svashisth07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
