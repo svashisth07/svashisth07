@@ -5,7 +5,8 @@ I am an experienced web technologist with a proven track record of conceptualizi
 * 🌱 I’m currently learning DevOps and Product Mangement
 * 💬 Ask me about Web Standards, WCAG, Web Performance.
 * 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/sandeep-vashisth)
-
+* ⚡ Dive into my thoughts and insights on [Medium](https://medium.com/@hybridappdev)
+  
 * Languages and Tools I've Used
 <br>
 <p align="center">
