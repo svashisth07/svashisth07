@@ -2,7 +2,6 @@
 I am an experienced technologist with a proven track record of conceptualizing and building applications from the ground up, with a particular focus on scalability. With a background rooted in the fast-paced world of startups, I bring a wealth of knowledge and expertise to the table.
 
 * 🔭 I’m currently working on React.js, Next.js, Node.js with Typescript, Tailwind CSS.
-* 🌱 I’m currently learning Product Mangement
 * 💬 Ask me about Web Standards, WCAG, Web Performance.
 * 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/sandeep-vashisth)
 <!-- * ⚡ Dive into my thoughts and insights on [Medium](https://medium.com/@hybridappdev)-->
