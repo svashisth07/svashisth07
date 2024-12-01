@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Sandeep Vashisth
 I am an experienced technologist with a proven track record of conceptualizing and building applications from the ground up, with a particular focus on scalability. With a background rooted in the fast-paced world of startups, I bring a wealth of knowledge and expertise to the table.
 
-- 🔭 I’m currently working with **React.js**, **Next.js**, **Node.js** (with **TypeScript**), and **Tailwind CSS** to build modern, scalable web applications.  
+- 🔭 I’m currently working with **React.js**(with **TypeScript**), and  **Python**, **Flask** to build modern, scalable web applications.  
 - 🐍 I also have hands-on experience with **Node**, **Express** and **Python**, **Flask**, developing robust and efficient back-end solutions.  
 - 💬 Ask me about **Web Standards**, **WCAG compliance**, **Web Performance**, and best practices for creating accessible and high-performing web applications.  
 - 🌟 Passionate about building intuitive user experiences and writing clean, maintainable code.  
